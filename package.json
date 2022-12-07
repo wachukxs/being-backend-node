@@ -1,0 +1,8 @@
+{
+  "name": "being-backend-node",
+  "version": "1.0.0",
+  "description": "backend for being app",
+  "main": "index.js",
+  "author": "@wachukxs",
+  "license": "MIT"
+}
